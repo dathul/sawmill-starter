@@ -15,4 +15,5 @@ fields:
   - media-feature
   - hero-section
 pages:
+- data/test.yml
 - content/_index.md
